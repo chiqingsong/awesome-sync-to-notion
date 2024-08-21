@@ -6,3 +6,4 @@
 - [Podcast2Notion](https://github.com/malinkang/Podcast2Notion)
 - [Toggl 2 Notion](https://github.com/malinkang/toggl2notion)
 - [GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) 同步日历ics到Google Calendar 就可以把其他日历同步到Notion Calendar了
+- [WechatPay_to_Notion](https://github.com/tsinglinrain/WeChatPay_to_Notion) 微信和支付宝账单发送至邮箱，邮件提取附件导入Notion
